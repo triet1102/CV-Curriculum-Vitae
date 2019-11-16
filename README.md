@@ -1,2 +1,2 @@
 # CV Curriculum Vitae  
-A simple CV.
+A simple CV using html-css.
